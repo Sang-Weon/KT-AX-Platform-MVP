@@ -15,9 +15,9 @@ export function PlatformHeader() {
         {/* Logo */}
         <div className="flex items-center gap-2">
           <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
-            <span className="text-primary-foreground font-bold text-sm">AX</span>
+            <span className="text-primary-foreground font-bold text-sm">KT</span>
           </div>
-          <Badge variant="outline" className="text-xs">Enterprise</Badge>
+          <Badge variant="outline" className="text-xs">AX Platform</Badge>
         </div>
 
         {/* Navigation */}
